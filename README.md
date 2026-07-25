@@ -4,8 +4,6 @@
 
 # 🔎 Social Media OSINT Tool
 
-![Social Media OSINT Tool Banner](banner.png)
-
 **Social Media OSINT Tool** is a Python-based Open Source Intelligence (OSINT) utility designed to help security researchers and students organize public social-media username investigations.
 
 > **Coded by Mr Sabaz Ali Khan**
