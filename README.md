@@ -60,7 +60,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 Enter the project directory:
 
 ```bash
-cd social-media-osint-tool
+cd social_osint
 ```
 
 Run the application:
